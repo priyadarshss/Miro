@@ -1,0 +1,90 @@
+{
+  "navbar": [
+    {
+      "option": "What is Miro",
+      "modalContent": {
+        "categories": [
+          {
+            "name": "Product",
+            "items": [
+              "Product Overview",
+              "Visual Project Management",
+              "Diagramming & Process Mapping",
+              "Product Development Workflows",
+              "Content & Data Visualization"
+            ]
+          },
+          {
+            "name": "What's new",
+            "items": [
+              "Explore our 2023 releases",
+              "Innovate with Miro Assist",
+              "Plan your quarter with Azure"
+            ],
+            "images": [
+              "https://miro.com/static/images/homepage/2023-releases.png",
+              "https://miro.com/static/images/homepage/innovate-with-miro-assist.png",
+              "https://miro.com/static/images/homepage/plan-your-quarter-with-azure.png"]
+          },
+          {
+            "name": "Innovate with Miro Assist"
+          },
+          {
+            "name": "Plan your quarter with Azure"
+          }
+        ]
+      }
+    },
+    {
+      "option": "Solutions",
+      "modalContent": {
+        "categories": [
+          {
+            "name": "By Team",
+            "items": [
+              "Product Management",
+              "Engineering",
+              "IT Teams",
+              "UX & Design",
+              "Consultants & Agencies",
+              "Marketing",
+              "Sales"
+            ]
+          },
+          {
+            "name": "By Use Case",
+            "items": [
+              "Technical Diagramming",
+              "Whiteboarding",
+              "Wireframing",
+              "Mind Map",
+              "Retrospectives",
+              "Scaled Product Planning",
+              "Process Mapping",
+              "Customer Journey Mapping",
+              "Strategy & Planning"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "option": "Resources"
+    },
+    {
+      "option": "Enterprise"
+    },
+    {
+      "option": "Pricing"
+    },
+    {
+      "option": "Contact Sales"
+    },
+    {
+      "option": "Login"
+    },
+    {
+      "option": "Sign Up for Free"
+    }
+  ]
+}
